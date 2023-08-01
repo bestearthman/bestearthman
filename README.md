@@ -1,5 +1,4 @@
 ### Hi 👋 I'm Tatiana Lisina, a young and promising data analyst 😄
-**✨I love data and dream to be the best in this✨** 
 
 - 👨‍💻 I code in Python (Pandas, Seaborn, Plotly, Matplotlib, NumPy, SciPy)
 - 💬 I know SQL
