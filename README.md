@@ -8,4 +8,4 @@
 
   **I am waiting for your invitation to join the team!** 😊
 
-  📫 My [resume](https://hh.ru/resume/54995864ff0b25ccb60039ed1f646957626952)
+  📫 [My resume](https://hh.ru/resume/54995864ff0b25ccb60039ed1f646957626952)
