@@ -4,6 +4,7 @@
 - 👨‍💻 I code in Python (Pandas, Seaborn, Plotly, Matplotlib, NumPy, SciPy)
 - 💬 I know SQL
 - 💹 I can visualizate different diagrams
+- 💪🧠 And of course I can do data analysis
 
   I am waiting for your invitation to join the team! 😊
 
