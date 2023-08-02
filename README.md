@@ -1,5 +1,8 @@
 ### Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="python" width="18" height="18"/> I'm Tatiana Lisina, a young and promising data analyst 😄
----
+
+___
+
+
 
 - [<img src="https://downloader.disk.yandex.ru/preview/0f138fbee35916f057a6d38540c8b3b570259553f74a2f3fbce06c7e20e424e9/64cac07e/bYk6Ou4Zt2gv7hf1Dy3MRcT__bUTg4FDYFwR8rHqiaRujI074B63Y4R7d8jeTV6tUBExnSMnSIzoaDT95hmtIA%3D%3D?uid=0&filename=Python.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048" alt="python" width="18" height="18"/>](https://github.com/bestearthman/Portfolio) I code in Python (Pandas, Seaborn, Plotly, Matplotlib, NumPy, SciPy)
 
