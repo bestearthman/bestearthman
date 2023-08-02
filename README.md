@@ -1,7 +1,7 @@
 ### Hi 👋 I'm Tatiana Lisina, a young and promising data analyst 😄
 
 
-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/> I code in Python (Pandas, Seaborn, Plotly, Matplotlib, NumPy, SciPy)
+- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="18" height="18"/> I code in Python (Pandas, Seaborn, Plotly, Matplotlib, NumPy, SciPy)
 
 
 
