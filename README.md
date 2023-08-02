@@ -1,6 +1,7 @@
 ### Hi 👋 I'm Tatiana Lisina, a young and promising data analyst 😄
 
-<p align="left"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 
 - 👨‍💻 I code in Python (Pandas, Seaborn, Plotly, Matplotlib, NumPy, SciPy)
