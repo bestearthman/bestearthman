@@ -15,9 +15,9 @@
 **I am waiting for your invitation to the team!**
 
 
-  [<img src="https://downloader.disk.yandex.ru/preview/ad810b4099196605d3b92ea31fe7be2368589779ea08efc341606ead97697815/64cac3eb/jiVhzyDopTBcHqKz4LyZVYZHM63XhkT4lfA6QU7hT0JUjEklmGRYxY4l6QhfgM4WpoHR3eKrh6tZTPD3UeeYmg%3D%3D?uid=0&filename=hh.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048" alt="python" width="25" height="25"/>](https://hh.ru/resume/54995864ff0b25ccb60039ed1f646957626952)  [My resume](https://hh.ru/resume/54995864ff0b25ccb60039ed1f646957626952)
+  [<img src="https://downloader.disk.yandex.ru/preview/ad810b4099196605d3b92ea31fe7be2368589779ea08efc341606ead97697815/64cac3eb/jiVhzyDopTBcHqKz4LyZVYZHM63XhkT4lfA6QU7hT0JUjEklmGRYxY4l6QhfgM4WpoHR3eKrh6tZTPD3UeeYmg%3D%3D?uid=0&filename=hh.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048" alt="python" width="30" height="30"/>](https://hh.ru/resume/54995864ff0b25ccb60039ed1f646957626952)  [My resume](https://hh.ru/resume/54995864ff0b25ccb60039ed1f646957626952)
 
 **Connect with me:**
 
-[<img src="https://downloader.disk.yandex.ru/preview/950b3e3832abeaaba7640f9c6edc84dabd00a550a2ec7ca10e5cab5dfa89bbeb/64cac6ae/heTUK6ygVuvcV5-xxM9PsrIJXx3hZQDfrctpO7-rAnjNOJDIILqwCnZs7dXWvsvsj9pja8XpZcVANjsIV2dAhQ%3D%3D?uid=0&filename=Whatsapp.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048" alt="Описание изображения" width="25" height="25">](https://wa.me/79645059655)
+[<img src="https://downloader.disk.yandex.ru/preview/950b3e3832abeaaba7640f9c6edc84dabd00a550a2ec7ca10e5cab5dfa89bbeb/64cac6ae/heTUK6ygVuvcV5-xxM9PsrIJXx3hZQDfrctpO7-rAnjNOJDIILqwCnZs7dXWvsvsj9pja8XpZcVANjsIV2dAhQ%3D%3D?uid=0&filename=Whatsapp.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048" alt="Описание изображения" width="30" height="30">](https://wa.me/79645059655)
 
