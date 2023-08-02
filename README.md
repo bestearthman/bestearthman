@@ -19,5 +19,5 @@
 
 **Connect with me:**
 
-[<img src="СКОПИРОВАННЫЙ_URL_ИЗОБРАЖЕНИЯ" alt="Описание изображения" width="300" height="200">](https://wa.me/79645059655)
+[<img src="https://downloader.disk.yandex.ru/preview/950b3e3832abeaaba7640f9c6edc84dabd00a550a2ec7ca10e5cab5dfa89bbeb/64cac6ae/heTUK6ygVuvcV5-xxM9PsrIJXx3hZQDfrctpO7-rAnjNOJDIILqwCnZs7dXWvsvsj9pja8XpZcVANjsIV2dAhQ%3D%3D?uid=0&filename=Whatsapp.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048" alt="Описание изображения" width="25" height="25">](https://wa.me/79645059655)
 
