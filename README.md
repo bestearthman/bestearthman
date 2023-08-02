@@ -6,7 +6,7 @@
 - <img src="https://downloader.disk.yandex.ru/preview/50b925e01831b069d1b9c56758e9b29280c47e2a4b36b98c0d5323ac57670253/64cabf3a/eD6BfXqaqYuvTc2-32mOfMhCGOHaxMwxpuTyYTH1Fe_uKDI-WzrjSPLZ8EuSeQVD6IOaIh0lWKY4Suf1UNzIBA%3D%3D?uid=0&filename=2023-08-02_19-43-10.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048" alt="SQL" width="15" height="15"> I work in SQL
 
 
-- <img src="https://downloader.disk.yandex.ru/preview/35ab722f76d691dc444f756ed651584213fc6ea3065305bcbad2798f7037a39d/64cabeb1/2BWKGX5JfszHPSntAQ98UnL0hx_qyFqdYt8Qsl0eHOHrpIjOMQ-56N5Hhe1-AaSAKH_b6kIG6yIKXLqihi5W-A%3D%3D?uid=0&filename=2023-08-02_19-43-10.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048" alt="python" width="15" height="15"/>
+- <img src="https://downloader.disk.yandex.ru/preview/50b925e01831b069d1b9c56758e9b29280c47e2a4b36b98c0d5323ac57670253/64cabf3a/eD6BfXqaqYuvTc2-32mOfMhCGOHaxMwxpuTyYTH1Fe_uKDI-WzrjSPLZ8EuSeQVD6IOaIh0lWKY4Suf1UNzIBA%3D%3D?uid=0&filename=2023-08-02_19-43-10.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048" alt="python" width="15" height="15"/>
 
 
 
