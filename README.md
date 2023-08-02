@@ -3,7 +3,7 @@
 
 - <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="18" height="18"/> I code in Python (Pandas, Seaborn, Plotly, Matplotlib, NumPy, SciPy)
 
-- <img src="https://disk.yandex.ru/i/YAkpbWMHKnCl2g/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="18" height="18"/> 
+- <img src="https://disk.yandex.ru/i/YAkpbWMHKnCl2g" alt="python" width="18" height="18"/> 
 
 - 💬 I work in SQL
 - 💹 I can visualizate different diagrams
