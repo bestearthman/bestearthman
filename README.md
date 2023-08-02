@@ -11,6 +11,7 @@
 
   **I am waiting for your invitation to the team!**
 
-  📫 [My resume](https://hh.ru/resume/54995864ff0b25ccb60039ed1f646957626952)
-  **Connect with me:**
+  <img src="https://downloader.disk.yandex.ru/preview/ad810b4099196605d3b92ea31fe7be2368589779ea08efc341606ead97697815/64cac3eb/jiVhzyDopTBcHqKz4LyZVYZHM63XhkT4lfA6QU7hT0JUjEklmGRYxY4l6QhfgM4WpoHR3eKrh6tZTPD3UeeYmg%3D%3D?uid=0&filename=hh.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048" alt="python" width="25" height="25"/> [My resume](https://hh.ru/resume/54995864ff0b25ccb60039ed1f646957626952)
+
+**Connect with me:**
   
