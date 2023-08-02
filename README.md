@@ -5,7 +5,7 @@
 
 - <img src="https://downloader.disk.yandex.ru/preview/50b925e01831b069d1b9c56758e9b29280c47e2a4b36b98c0d5323ac57670253/64cabf3a/eD6BfXqaqYuvTc2-32mOfMhCGOHaxMwxpuTyYTH1Fe_uKDI-WzrjSPLZ8EuSeQVD6IOaIh0lWKY4Suf1UNzIBA%3D%3D?uid=0&filename=2023-08-02_19-43-10.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048" alt="SQL" width="17" height="17"> I work in SQL 
 
-- <img src="https://downloader.disk.yandex.ru/preview/03230edc436e0b37c61ed1be77fd7e05bcab4cb764c2eccaf937574c5ec6fe14/64cac12e/P6OTEW9VOzv2fGUiVQX9wpiL0BYHZW5zEBjASivUNA5C9ZNDckSgsYCIZYwPie0dt8dFAbJ_h0RJGnvWSxUg6A%3D%3D?uid=0&filename=diagram.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048" alt="python" width="18" height="18"/> I can visualizate different diagrams
+- <img src="https://downloader.disk.yandex.ru/preview/887f8735543c4d31bfccd3d9e9d69d3a25ad5d15d9204fd21ce4ca0b5d53a934/64cac2b1/h9Q5Ngcp5hRfKm9XOqLFvtLekjzqxRroFzgfEqKyyZi23s-_dCN_Y_RbYI3uspVi6JU0AR8BZNjBbMydniVIUA%3D%3D?uid=0&filename=diagram2.jpg&disposition=inline&hash=&limit=0&content_type=image%2Fjpeg&owner_uid=0&tknv=v2&size=2048x2048" alt="python" width="18" height="18"/> I can visualizate different diagrams
 
 - 💪 And of course I do data analysis
 
