@@ -8,7 +8,7 @@
 
 - 💪 And of course I do data analysis
 
-- <img src="https://downloader.disk.yandex.ru/preview/60242df2f8c2018ca3ea13ec1af4520c564e8d84d2a45e006f74cbb0de9aeaba/64cc4728/KVDcTzFjKStwtmTQQ9MJ6RnMHIS483L-suqafPHEk7huDfVXKUmH4tqU7tE5eOp2swnX27G3DkoNnSGLF1P4xg%3D%3D?uid=0&filename=ChatGPT.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=1920x893" alt="python" width="18" height="18"/> !!!
+- <img src="https://downloader.disk.yandex.ru/preview/60242df2f8c2018ca3ea13ec1af4520c564e8d84d2a45e006f74cbb0de9aeaba/64cc4728/KVDcTzFjKStwtmTQQ9MJ6RnMHIS483L-suqafPHEk7huDfVXKUmH4tqU7tE5eOp2swnX27G3DkoNnSGLF1P4xg%3D%3D?uid=0&filename=ChatGPT.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=1920x893" alt="python" width="18" height="18"/> !!! ♡ !!!
 
 **I am waiting for your invitation to the team!**<br>
   
