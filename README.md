@@ -1,4 +1,4 @@
-## Hi <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" alt="python" width="18" height="18"/> I'm Tatiana Lisina, a young and promising data analyst 😄
+## Hi! I'm Tatiana Lisina, a young and promising data analyst 😄
 
 - [<img src="https://github.com/bestearthman/Helpers/blob/4790ad0e3e14d6c41bd75a9fdc8e85e17d91a6bf/Images/Python.png" alt="python" width="18" height="18"/>](https://github.com/bestearthman/Portfolio) I code in Python (Pandas, Seaborn, Plotly, Matplotlib, NumPy, SciPy)
 
